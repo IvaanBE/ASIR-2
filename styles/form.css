@@ -1,0 +1,35 @@
+
+.caja {
+        margin: 50px auto;
+        height: auto;
+        width: 500px;
+        min-width: 10rem;
+        padding: 0.5rem 0;
+        font-size: 1rem;
+        color: #212529;
+        text-align: left;
+        background-color: rgb(255, 253, 253);
+        background-clip: padding-box;
+        border: 1px solid rgba(0,0,0,.15);
+        border-radius: 0.25rem;
+        padding: 0;
+    
+}
+.divider {
+    margin: 0.5rem 0;
+    overflow: hidden;
+    border-top: 1px solid #e9ecef;
+}
+.divider p {
+    margin: 10px 10px 0;
+}
+.mensaje {
+    text-align: center;
+    height: 30px;
+    width: auto;
+    margin: 0 auto;
+    background-color: rgb(255 122 122);
+}
+.mensaje p {
+    margin: 0;
+}

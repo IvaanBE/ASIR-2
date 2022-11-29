@@ -1,0 +1,17 @@
+.navlink {
+    text-decoration: none;
+    color: white;
+}
+.navlink:hover {
+    color: rgb(199, 193, 193);
+}
+.nav-tittle {
+    color: white;
+}
+.search {
+    color: white;
+}
+.search-imput {
+    border-radius: 7px 7px 7px 7px;
+    overflow: hidden;
+}
